@@ -1,0 +1,12 @@
+2025-01-30 00:40:46.037152: Preliminaries complete. Initiating ETL process
+2025-01-30 00:40:46.865044: Data extraction complete. Initiating Transformation process
+2025-01-30 00:40:46.905711: Data transformation complete. Initiating Loading process
+2025-01-30 00:40:46.915133: Data saved to CSV file
+2025-01-30 00:40:46.950386: Data loaded to Database as a table, Executing queries
+2025-01-30 00:40:46.954448: Process Complete
+2025-01-30 00:40:46.957785: Process Complete
+2025-01-30 00:40:46.957785: Process Complete
+2025-01-30 00:40:46.957785: Doing Analytics
+2025-01-30 00:40:46.966578: Red the sql query
+2025-01-30 00:40:48.042486: Process Complete returning to main
+2025-01-30 00:40:48.075605: Analytics performed successfully.
