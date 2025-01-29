@@ -59,8 +59,14 @@
 - Task 4: Loading to CSV
 - Task 5: Loading to Database
 - Task 6: Function to Run queries on Database
-- Task 7: Verify log entries
+- Task 7: Performed Analytics Using Pandas
+- Task 8: Verify log entries
 
 ## Archiecture
 
 ![architecture](./architecture.jpg)
+
+
+## Top 20 Banks Chart
+
+![Graph](./Top_20_Banks_Graph.png)
