@@ -63,4 +63,4 @@
 
 ## Archiecture
 
-![architecture](./archiecture.jpeg)
+![architecture](./archiecture.jpg)
