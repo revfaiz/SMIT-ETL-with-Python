@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Detailed Functionality
 
 ### 1. Logging Function
@@ -64,4 +64,3 @@
 ## Archiecture
 
 ![architecture](./archiecture.jpeg)
->>>>>>> dev_branch
